@@ -67,4 +67,5 @@ tempCodeRunnerFile*
 # =========================================
 # OTHER
 # =========================================
-# Archive files - assuming these are personal backups or tests
+.DS_Store
+build/
